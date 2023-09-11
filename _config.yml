@@ -1,7 +1,4 @@
 title: Pekod's static site
-author: Mark
-  name: pekod
-  email: onathema@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -13,6 +10,8 @@ author: Mark
 # Build settings
 
 theme: minima
+
+minima:
 
 plugins:
   - jekyll-feed
